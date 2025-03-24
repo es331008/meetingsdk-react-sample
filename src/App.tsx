@@ -5,7 +5,7 @@ ZoomMtg.preLoadWasm();
 ZoomMtg.prepareWebSDK();
 
 function App() {
-  const authEndpoint = "http://localhost:4000"; // http://localhost:4000
+  const authEndpoint = "https://d1c3-23-245-97-53.ngrok-free.app"; // http://localhost:4000
   const sdkKey = "bVMiFciBRdYj3_0jJsTMQ";
   const meetingNumber = "77227742313";
   const passWord = "rGV4ds";
