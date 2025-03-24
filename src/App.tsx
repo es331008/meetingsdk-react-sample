@@ -7,14 +7,14 @@ ZoomMtg.prepareWebSDK();
 function App() {
   const authEndpoint = "https://d1c3-23-245-97-53.ngrok-free.app"; // http://localhost:4000
   const sdkKey = "bVMiFciBRdYj3_0jJsTMQ";
-  const meetingNumber = "77227742313";
-  const passWord = "rGV4ds";
+  const meetingNumber = "75578464369";
+  const passWord = "bMwV4X";
   const role = 0;
-  const userName = "React";
+  const userName = "Meeting Bot";
   const userEmail = "";
   const registrantToken = "";
   const zakToken = "";
-  const leaveUrl = "http://localhost:5173";
+  const leaveUrl = "https://mango-mud-0fb93230f.6.azurestaticapps.net/";
 
   const getSignature = async () => {
     try {
